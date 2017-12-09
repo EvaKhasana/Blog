@@ -1,12 +1,12 @@
 #Site
-title: 水榭清松-Song Kong
+title: eva khasana
 description: This is Song' home.
 logo: favicon.png
 url: kongsong.me
 rss_url: /feed.xml
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /evakhasana.github.io/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -21,7 +21,7 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
+  disqus: eva khasana    
   # duoshuo: kongsong
   # youyan: 2122392
   laibili: MTAyMC8yODgzNC81NDA0
@@ -33,19 +33,19 @@ baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: eva khasana     #the name of Blog section
+  about_me: I'm eva khasana, a student from UIN SUSKA RIAU. This is my online home & blog, where I share thoughts about something interesting topics. Feel free to contact me by email if you have any question.
  
 # Social Links
-email:               hi@kongsong.me
+email:               eva.khasana.gmail.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+facebook:            eva khasana
+github:              evakhasana
+stackoverflow:      #from a "http://stackoverflow.com/users/123456/username" link
+linkedin:           eva khasana
 #xing:              username
-#instagram:          username
+instagram:         @eva_khasana
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
