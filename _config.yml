@@ -2,11 +2,11 @@
 title: EvaKhasana
 description: This is Song' home.
 logo: favicon.png
-url: evakhasana.github.io
+url: http://kongsong.me/
 rss_url: /feed.xml
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          EvaKhasana.github.io
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
